@@ -1,1 +1,2 @@
-# GDI and Bytebeats
+# Potato
+C++ short GDI trojan by SysToad64
